@@ -1,0 +1,26 @@
+.bg-default {
+    background-color: #006cfa;
+    border: 1px solid white;
+}
+
+.bg-active {
+    background-color: #00e165;
+    border: 1px solid white;
+}
+
+.center {
+    justify-content: center;
+    text-align: center;
+}
+
+.txt {
+    color: white;
+}
+
+.p-1 {
+    padding: 10px;
+}
+
+.p-2 {
+    padding: 20px;
+}
